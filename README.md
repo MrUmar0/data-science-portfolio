@@ -3,6 +3,8 @@
 A collection of data science exercises and mini-projects, organized by library/topic, as I learn and practice core data analysis tools in Python.
 
 ## Structure
+
+
 data-science/
 ├── pandas-numpy/
 │   ├── student-grade-tracker/   # Track and analyze student grades
@@ -10,6 +12,7 @@ data-science/
 ├── matplotlib/                  # (coming soon) Data visualization exercises
 ├── sklearn/                     # (coming soon) Machine learning exercises
 └── README.md
+
 
 ## Projects
 
