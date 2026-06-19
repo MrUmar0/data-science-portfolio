@@ -1,0 +1,11 @@
+Name,Math,Science,English,History,Computer,Total,Average,Percentage,Grades,Status,Rank
+Fatima Malik,95,98,92,88,99,472,94.4,94.4,A+,Pass,1
+Nadia Hussain,91,85,94,89,93,452,90.4,90.4,A+,Pass,2
+Ali Hassan,88,92,75,80,95,430,86.0,86.0,A,Pass,3
+Ayesha Mirza,82,78,85,80,90,415,83.0,83.0,A,Pass,4
+Zara Sheikh,78,82,80,75,88,403,80.6,80.6,A,Pass,5
+Sara Khan,72,65,88,90,78,393,78.6,78.6,B,Pass,6
+Omar Farooq,63,70,68,72,65,338,67.6,67.6,C,Pass,7
+Ahmed Raza,55,60,50,48,62,275,55.0,55.0,D,Pass,8
+Hamza Butt,50,55,48,52,58,263,52.6,52.6,D,Pass,9
+Bilal Ahmed,40,35,55,60,45,235,47.0,47.0,F,Fail,10
