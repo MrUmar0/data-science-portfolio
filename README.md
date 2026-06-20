@@ -6,6 +6,7 @@ A collection of data science exercises and mini-projects, organized by library/t
 data-science/
 ├── pandas-numpy/
 │   ├── student-grade-tracker/   # Track and analyze student grades
+│   └── numpy-stats-calculator/    # Calculate sales stats using NumPy
 │   └── clean-titanic-data/      # Clean the Titanic dataset with pandas
 ├── matplotlib/                  # (coming soon) Data visualization exercises
 ├── sklearn/                     # (coming soon) Machine learning exercises
