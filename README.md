@@ -3,13 +3,14 @@
 A collection of data science exercises and mini-projects, organized by library/topic, as I learn and practice core data analysis tools in Python.
 
 ## Structure
-data-science/
+data-science
 ├── pandas-numpy/
-│   ├── student-grade-tracker/   # Track and analyze student grades
-│   └── numpy-stats-calculator/    # Calculate sales stats using NumPy
-│   └── clean-titanic-data/      # Clean the Titanic dataset with pandas
-├── matplotlib/                  # (coming soon) Data visualization exercises
-├── sklearn/                     # (coming soon) Machine learning exercises
+│   ├── student-grade-tracker/     # Track and analyze student grades
+│   ├── numpy-stats-calculator/    # Calculate stats using NumPy
+│   ├── sales-dashboard/           # Analyze 5000 rows of sales data
+│   └── clean-titanic-data/        # Clean the Titanic dataset with pandas
+├── matplotlib/                    # (coming soon) Data visualization exercises
+├── sklearn/                       # (coming soon) Machine learning exercises
 └── README.md
 
 ## Projects
